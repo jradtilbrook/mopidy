@@ -48,15 +48,6 @@ Provides a backend for playing music from your `Beets
 <http://beets.radbox.org/>`_ music library through Beets' web extension.
 
 
-Mopidy-Deezer
-=============
-
-https://github.com/rusty-dev/mopidy-deezer
-
-Extension for playing music from the `Deezer <http://www.deezer.com/>`_ music
-streaming service.
-
-
 Mopidy-Dirble
 =============
 
@@ -180,6 +171,13 @@ https://github.com/hechtus/mopidy-radio-de
 Extension for listening to Internet radio stations and podcasts listed at
 `radio.de <http://www.radio.de/>`_, `radio.net <http://www.radio.net/>`_,
 `radio.fr <http://www.radio.fr/>`_, and `radio.at <http://www.radio.at/>`_.
+
+Mopidy-RNZ
+==========
+
+https://github.com/danbrough/mopidy-rnz
+
+Extension for playing `Radio New Zealands <http://www.radionz.co.nz>`_ podcasts,live streams and latest news bulletin.
 
 
 Mopidy-SomaFM
